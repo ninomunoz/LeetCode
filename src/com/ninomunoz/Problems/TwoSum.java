@@ -37,7 +37,7 @@ public class TwoSum {
     /*
         Two-pass Hash Table
 
-        Time Complexity: O(2n) -> O(n)
+        Time Complexity: O(n)
         Space Complexity: O(n)
      */
 
