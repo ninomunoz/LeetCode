@@ -1,0 +1,8 @@
+
+### Java ###
+*.class
+
+### JetBrains ###
+.idea/
+*.iml
+out/
