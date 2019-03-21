@@ -39,7 +39,7 @@ public class SortArrayByParity {
 
     /*
         Time Complexity: O(n)
-        Space Complexity: 0
+        Space Complexity: O(1)
      */
     static int[] sortArrayByParity(int[] A) {
         int left = 0, right = A.length - 1;
