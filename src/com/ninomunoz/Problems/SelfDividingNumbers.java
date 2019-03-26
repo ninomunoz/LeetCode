@@ -40,7 +40,6 @@ public class SelfDividingNumbers {
     }
 
     static boolean isSelfDividingNumber(int num) {
-        if (num == 0) return false;
         int n = num;
         while (n > 0) {
             int digit = n % 10;
